@@ -26,7 +26,7 @@
     "datatables.net-buttons-dt": "^1.7.0",
     "datatables.net-dt": "^1.10.24",
     "jquery": "^3.6.0",
-    "jszip": "^3.6.0",
+    "jszip": "^3.7.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
