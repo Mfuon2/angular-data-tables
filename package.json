@@ -24,7 +24,7 @@
     "datatables.net": "^1.10.24",
     "datatables.net-buttons": "^1.7.0",
     "datatables.net-buttons-dt": "^1.7.0",
-    "datatables.net-dt": "^1.10.24",
+    "datatables.net-dt": "^1.10.25",
     "jquery": "^3.6.0",
     "jszip": "^3.6.0",
     "rxjs": "~6.6.0",
