@@ -22,13 +22,13 @@
     "angular-datatables": "^11.2.0",
     "bootstrap": "^4.6.0",
     "datatables.net": "^1.10.24",
-    "datatables.net-buttons": "^1.7.0",
+    "datatables.net-buttons": "^1.7.1",
     "datatables.net-buttons-dt": "^1.7.0",
-    "datatables.net-dt": "^1.10.24",
+    "datatables.net-dt": "^1.11.0",
     "jquery": "^3.6.0",
-    "jszip": "^3.6.0",
+    "jszip": "^3.7.1",
     "rxjs": "~6.6.0",
-    "tslib": "^2.0.0",
+    "tslib": "^2.3.0",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
