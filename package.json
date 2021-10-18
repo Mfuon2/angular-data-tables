@@ -21,7 +21,8 @@
     "@angular/router": "~11.2.11",
     "angular-datatables": "^11.2.0",
     "bootstrap": "^4.6.0",
-    "datatables.net": "^1.10.24",
+    "datatables.net": "^1.11.3",
+
     "datatables.net-buttons": "^1.7.0",
     "datatables.net-buttons-dt": "^1.7.1",
     "datatables.net-dt": "^1.10.24",
