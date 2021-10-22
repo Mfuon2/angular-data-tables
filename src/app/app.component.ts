@@ -14,15 +14,15 @@ export class AppComponent implements OnInit{
     {name: 'Angela', email: 'teqweqwest@gmail.com', website: 'oo.com'},
     {name: 'Antony', email: 'antony@gmail.com', website: 'bb.com'},
   ];
-  title = 'Angular Data Tables';
+  title = 'Data tables';
   dtOptions: any = {};
 
   ngOnInit() {
     this.dtOptions = {
       pagingType: 'full_numbers',
-      pageLength: 5,
+      pageLength: 10, //should be dynamic
       processing: true,
-      lengthMenu : [5, 10, 25],
+      lengthMenu : [10, 20, 30],
       dom: 'Bfrtip',
       buttons: [
         'copy', 'csv', 'excel', 'print'
